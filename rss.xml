@@ -1,0 +1,27 @@
+<rss version="2.0">
+<channel>
+<title>Bitne informacije</title>
+<link>https://bojann05.github.io/RENTA//</link>
+<description>Ovde pišu bitne informacije</description>
+<item>
+<title>O nama</title>
+<link>https://bojann05.github.io/RENTA/</link>
+<description>Ovde možete videti više o agenciji</description>
+</item>
+<item>
+<title>Vozni park</title>
+<link>https://bojann05.github.io/RENTA//</link>
+<description>Ovde možete videti naš vozni park</description>
+</item>
+<item>
+<title>Dodaci</title>
+<link>https://bojann05.github.io/RENTA//</link>
+<description>Ovde možete videti dodatke </description>
+</item>
+<item>
+<title>Autor</title>
+<link>https://bojann05.github.io/RENTA//</link>
+<description>Ovde možete videti stranicu o autoru</description>
+</item>
+</channel>
+</rss>
